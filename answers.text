@@ -1,0 +1,185 @@
+# Answers to part-1
+
+"Answer-to-Ques-1"
+
+Sofware engineering: is a type of engineering that applies engineering principles, methods,
+and tools to develop and maintain high quality sofware systems. it involves software product design,
+development, and maintainance.
+
+
+Importance of Sofware engineering in the Technology Industry: it plays a crucial role in the tech Industry by enabling the creation of sofware applications
+and systems that power various aspects of modern life, including communication, commerce entertainment, and healthcare.
+
+
+
+"Answer-to-Ques-2"
+
+Key milestones in the evolution of software engineering:
+
+1. Development of Programming Languages e.g (Fortran, Python):
+
+2. The advent of Structural Programming in the 1970s:
+
+
+
+"Answer-to-Ques-3"
+
+Phases in Software Development Life Cycle (SDLC)
+
+1) Requirements: Gathering and documenting user needs and sysytem requirements.
+
+2) Design: Creating high-level and detailed designs  of the sofware architchure and user interface.
+
+3) Implementation:  Writing code and building the software according to the design.
+
+4) Testing: Conducting various tests to ensure the sofware meets quality standards and functinal requirements.
+
+5) Development: Releasing the software to users or customers.
+
+6) Maintainance: Providing ongoing support,updates, and enhancements to the sofware after deployment.
+
+
+
+"Answer-to-Ques-4"
+
+Differences between Agile and Waterfall Technologies:
+
+1. Agile is an iterative approach to sofware development, emphasizing flexibility and collaboration among cross-functional teams. while Waterfall is a linear and sequential approach, where each phase must be completed before moving to the next, changes are difficult to incorporate once a phase is completed.
+
+
+2. Agile may seem more expensive initially due to its ongoing feedback loops, but often reduces expenses over time by addressing isues early and delivering value incrementally. while Waterfall with its fixed upfront costs can lead to higher expenses if changes are needed later. The cost effectiveness depends on the projects requirements and context.
+
+
+
+
+
+The Pros and Cons of Agile:
+
+Pros:
+1) Flexibility: Agile allows teams to adapt to changing requirements and priorities, ensuring the final product meets the evolving needs of stakeholders.
+
+2) Faster Delivery: By breaking down the project into smaller increments, Agile enables faster delivery of working software, leading to quicker feedback and validation.
+
+3) Collaboration: Agile fosters collaboration among team members, promoting better communication and transparency throughout the development cycle.
+
+4) Continuous Improvement: The iterative nature of Agile encourages continuous improvement, as teams regularly assess their progress and make neccessary adjustments based on feedback.
+
+Cons:
+1)Predictability: Agile may struggle with maintaining prdictability in project timelines and budgets, as requirements evolve over time.
+
+2)Stakeholder Invovement: Agile requires active active involvement from stakeholders and dedicated resources, which may not always be feasible.
+
+3)Scope Management: Agile is less suitable for projects with fixed scope and strict deadlines, as changes in requirements can impact project scope and timelines.
+
+
+
+
+The Pros and Cons of Waterfall:
+
+Pros:
+
+
+1)Clear Roadmap: Waterfall provides a clear roadmap for project execution, making it easier to plan and estimate resources and timelines upfront.
+
+2)Stability: Well-suited for projects with projects with stable requirements and predefined objectives, Waterfall ensures thorough documentation and adherence to established processes.
+
+3)Predictability: Waterfall offers predictability in project timelines and budgets, as requirements are defined upfront and changes are minimized during development.
+
+
+
+Cons:
+
+1)Rigidity: The rigidity of waterfall can be a drawback when faced with evolving requirements, making it challenging to accomodate changes late in the development cycle.
+
+2)Flexibility: Waterfall lacks the flexibility of agile to adapt to changes quickly, potentially leading to delays or rework if issues arise.
+
+3) Limited Feedback: Due to its sequential nature, Waterfall may limit feedback opportunities until later stages of development, increasing the risk of delivering a product that doesn't meet stakeholder applications.
+
+
+
+
+"Answer-to-Ques-5"
+
+Roles and Responsibilities of Software Developer, Quality Assurance Engineer,and Project Manager:
+
+Software Developer: Responsible for writing code and implementing sofware solutions.
+
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+
+Project Manager: Oversees the planning, execution, and delivery of software projects.
+
+
+
+"Answer-to-Ques-6"
+
+Importance of Integrated Development Environments(IDES) and Version control Systems(VCS):
+
+Integrated Development Environments: are softwares suites that provide comprehensive tools for writing, debugging, and testing code(e.g., Visual Studio, Eclipse, Intellij IDEA).
+
+Version Control Systems(VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
+
+
+
+
+"Answer-to-Ques-7"
+
+Challenges faced by Sofware engineers:
+
+1) Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+
+2) Tight Deadlines: Pressure to deliver sofware products on schedule can result in rushed development and compromised quality.
+
+3) Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintainance costs.
+
+
+Strategies for Overcoming Challenges:
+
+The stategies needed include effective communication, agile methodologies, prioritization of tasks and regular reassessment of project goals and timelines..
+
+
+
+
+
+"Answer-to-Ques-8"
+
+
+
+Importance of Sofware Testing: Testing is a critical aspect of QA and involves various testing.
+
+
+Different types of testing:
+
+Unit testing: Testing individual components or modules of a software.
+
+Integration Testing: Testing interaction between different components or subsystems.
+
+System Testing: Testing the entire software system as a whole.
+
+Integration Testing: Testing the sofware against users requirement to ensure it meets user needs.
+
+
+
+
+
+
+
+
+
+
+# Answers to part-2
+
+"Answer-to-Ques-1"
+
+Defination of Prompt engineering:
+
+Prompt is engineering is the process where you guide generative artificial intelligence solutions to generate desired outputs.
+
+
+
+Example of a Vague or Unclear Prompt:
+
+Vague Prompt: " How do ads Work ? "
+
+Refined Prompt: " Could you explain the mechanics and strategies behind creating a succesive pay-per-click(PPC) ad campaign on Google Ads for a new Product launch ? "
+
+Why Improved Prompt is more effective: The original question is too general, as 'ads' can span from traditional print ads to modern digital ads. The refined question targets a specific form of online advertising (PPC on Google Ads ) and situates it in the context of a new product launch..
